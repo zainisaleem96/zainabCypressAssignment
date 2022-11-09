@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "cypress": "^10.10.0",
+    "cypress-v10-preserve-cookie": "^1.2.1"
+  },
+  "scripts": {
+    "cypress:open_assignment": "npx cypress open --env ENVIRONMENT=assignment",
+    "_comment": "to run cypress headless and get failure ss and video in respective folder",
+    "cypress:run_session02": "npx cypress run --env ENVIRONMENT=session02",
+    "cypress:run_session03": "npx cypress open --env ENVIRONMENT=session03"
+  }
+}

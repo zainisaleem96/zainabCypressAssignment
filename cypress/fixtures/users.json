@@ -1,0 +1,22 @@
+{
+    "username": "zainab",
+    "password": "secret_sauce",
+    "retype_pass": "secret_sauce",
+
+    "existing_username": "standard_user",
+    "unmatch_pass": "secret_sauce1",
+
+    "login_username": "ALs",
+    "login_password": "Test12",
+
+    "accountA" : "15453",
+    "accountB" : "15564",
+    "transferAmount": "100",
+    "transactionDate": "11-8-2022",
+    "transactionName": "Bill Payment to zainab",
+    "transactionAmount": "$100.00",
+    "loanAmount": "100",
+    "downPayment": "50"
+
+
+  }
